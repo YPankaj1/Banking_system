@@ -1,7 +1,6 @@
 There are 3 types of user, customer denoted by C, police denoted by P, admin denoted by A in the login_file.txt
 There are 10 customers from 1 to 10, 2 admin (11-12), 3 police (13-15)'
 We can add new users by adding them in the login_file
-(we can also add functionality of dynamically creating user)
 
 For running the file:
 run the following code in a terminal in same folder where the files are present:
