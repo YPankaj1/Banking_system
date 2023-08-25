@@ -1,0 +1,15 @@
+1 abcdef C
+2 pqrstu C
+3 abcdef C
+4 pqrstu C
+5 namanj C
+6 shankar C
+7 krishna C
+8 kheshav C
+9 ghanesh C
+10 vinayak C
+11 mahadev A
+12 bholenath A
+13 pranshu P
+14 bhoomiraj P
+15 pankaj P
